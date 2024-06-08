@@ -21,9 +21,9 @@
 ## Installation
 
 1. **Clone the repository:**
-    \`\`\`sh
+    ```sh
     [git clone https://github.com/yourusername/java-brick-breaking-game.git](https://github.com/AliDrgt/java-brick-breaking-game.git)
-    \`\`\`
+    ```
 
 2. **Navigate to the project directory:**
     ```sh
@@ -31,19 +31,19 @@
     ```
 
 3. **Navigate to the source directory:**
-    \`\`\`sh
+    ```sh
     cd src
-    \`\`\`
+    ```
 
 4. **Compile the Java files:**
-    \`\`\`sh
+    ```sh
     javac *.java
-    \`\`\`
+    ```
 
 5. **Run the game:**
-    \`\`\`sh
+    ```sh
     java main
-    \`\`\`
+    ```
 
 ## Usage
 
