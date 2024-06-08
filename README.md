@@ -59,8 +59,9 @@
 - Don't let the ball fall below the paddle, or you will lose a life.
 
 ## Example Screenshots
+![image](https://github.com/AliDrgt/java-brick-breaking-game/assets/58707793/77a65490-acb7-448b-a8c8-b6a13d077334)
 
-*Include some screenshots of your game here.*
+![image](https://github.com/AliDrgt/java-brick-breaking-game/assets/58707793/55e4d836-f5d0-43ff-88a0-266c61d3e6b5)
 
 ## Acknowledgments
 
