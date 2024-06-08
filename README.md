@@ -26,9 +26,9 @@
     \`\`\`
 
 2. **Navigate to the project directory:**
-    \`\`\`sh
+    ```sh
     cd java-brick-breaking-game
-    \`\`\`
+    ```
 
 3. **Navigate to the source directory:**
     \`\`\`sh
